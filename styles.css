@@ -1,1 +1,56 @@
-/* Write your CSS here! */
+html {
+    scroll-behavior: smooth;
+  }
+body {
+    background-color: bisque;
+    margin: 8 px;
+    display: block;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  }
+  h1 {
+    color: navy;
+    font-size: 30pt;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  }
+  h3 {
+    color: navy;
+    font-size: 18pt;
+    text-align: center;
+  }
+  p {
+    color: navy;
+    font-size: 12pt;
+  }
+  div {
+    color: navy;
+    font-size: 12pt;
+  }
+  article {
+    padding-left: 30px;
+    padding-top: 10px;
+    padding-right: 30px;
+    padding-bottom: 10px;
+    text-align: left;
+  }
+  img {
+    border-radius: 10px;
+    height: 400px;
+    width: 300px;
+    text-align: center;
+  }
+  #weddingPic {
+    height: 400px;
+    width: 560px;
+    text-align: center;
+  }
+  #togetherPic {
+    height: 400px;
+    width: 500px;
+    text-align: center;
+  }
+  li {
+    text-align: left;
+    font-size: 16pt;
+    color: navy
+  }
